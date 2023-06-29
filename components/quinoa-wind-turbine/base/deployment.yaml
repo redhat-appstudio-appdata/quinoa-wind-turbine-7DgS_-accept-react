@@ -25,7 +25,7 @@ spec:
         app.kubernetes.io/instance: quinoa-wind-turbine
     spec:
       containers:
-      - image: java-quarkus-image:latest
+      - image: quay.io/redhat-user-workloads/kdubois1-tenant/quinoa-wind-turbine/quinoa-wind-turbine@sha256:947e6d0a5fa5527ce22f355b55a1a11943b08b420ecda6bd5baf21570eb4461a
         name: my-java-quarkus
         ports:
         - containerPort: 8081
