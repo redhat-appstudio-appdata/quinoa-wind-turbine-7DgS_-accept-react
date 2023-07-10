@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: quinoa-wind-turbine
     app.kubernetes.io/part-of: quinoa-wind-turbine
-  name: quinoa-wind-turbinen56t
+  name: quinoa-wind-turbinev2hz
 spec:
   path: /
   port:
