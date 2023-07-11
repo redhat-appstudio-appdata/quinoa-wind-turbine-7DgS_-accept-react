@@ -4,7 +4,6 @@ metadata:
   creationTimestamp: null
   name: quinoa-wind-turbine
 spec:
-  replicas: 5
   selector: {}
   strategy: {}
   template:
